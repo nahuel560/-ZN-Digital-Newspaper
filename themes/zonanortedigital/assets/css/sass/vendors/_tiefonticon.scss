@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'tiefonticon';
+  src:url('../fonts/tiefonticon/tiefonticon.eot');
+  src:url('../fonts/tiefonticon/tiefonticon.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/tiefonticon/tiefonticon.woff') format('woff'),
+    url('../fonts/tiefonticon/tiefonticon.ttf') format('truetype'),
+    url('../fonts/tiefonticon/tiefonticon.svg?#tiefonticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+[class^="tie-icon-"], [class*=" tie-icon-"] {
+  // use !important to prevent issues with browser extensions that change fonts
+  font-family: 'tiefonticon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  @include font-smoothing();
+}
+
+.tie-icon-basecloud:before {
+  content: "\f105";
+}
+.tie-icon-cloud-2:before {
+  content: "\e904";
+}
+.tie-icon-cloud-solid:before {
+  content: "\e905";
+}
+.tie-icon-wind:before {
+  content: "\e902";
+}
+.tie-icon-thermometer-half:before {
+  content: "\e901";
+}
+.tie-icon-check:before {
+  content: "\e116";
+}
+.tie-icon-cross:before {
+  content: "\e117";
+}
+.tie-icon-dots-three-horizontal:before {
+  content: "\e903";
+}
+.tie-icon-fire:before {
+  content: "\e900";
+}
+.tie-icon-map:before {
+  content: "\e6ab";
+}
+.tie-icon-goto:before {
+  content: "\e64a";
+}
+.tie-icon-star:before {
+  content: "\e66b";
+}
+.tie-icon-plaine:before {
+  content: "\e671";
+}
+.tie-icon-house:before {
+  content: "\e67d";
+}
+.tie-icon-users:before {
+  content: "\e69b";
+}
+.tie-icon-user:before {
+  content: "\e69c";
+}
+.tie-icon-typing:before {
+  content: "\e69e";
+}
+.tie-icon-settings:before {
+  content: "\e6a3";
+}
+.tie-icon-ringer:before {
+  content: "\e6a7";
+}
+.tie-icon-messageright:before {
+  content: "\e6b3";
+}
+.tie-icon-list:before {
+  content: "\e6b8";
+}
+.tie-icon-inbox:before {
+  content: "\e6bb";
+}
+.tie-icon-edit:before {
+  content: "\e6bd";
+}
+.tie-icon-raindrop:before {
+  content: "\f078";
+}
+.tie-icon-text:before {
+  content: "\e685";
+}
+.tie-icon-audio:before {
+  content: "\e6a2";
+}
+.tie-icon-picture:before {
+  content: "\e6ac";
+}
+.tie-icon-video:before {
+  content: "\e6b6";
+}
+.tie-icon-windysnow:before {
+  content: "\f103";
+}
+.tie-icon-mist:before {
+  content: "\f108";
+}
+.tie-icon-moon:before {
+  content: "\f10d";
+}
+.tie-icon-sun:before {
+  content: "\f113";
+}
+.tie-icon-thunder:before {
+  content: "\f114";
+}

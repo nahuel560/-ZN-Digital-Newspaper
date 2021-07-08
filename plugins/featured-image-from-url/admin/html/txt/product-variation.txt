@@ -1,0 +1,24 @@
+{
+    "name": "Avengers",
+    "meta_data": [
+        {
+            "key": "fifu_list_url",
+            "value": "https://farm5.staticflickr.com/4333/35721637764_c6f1e93380_q.jpg|https://farm5.staticflickr.com/4424/36388235842_5de2f3e351_q.jpg|https://farm5.staticflickr.com/4383/36510270056_0e52a799f4_q.jpg"
+        },
+        {
+            "key": "fifu_list_alt",
+            "value": "black widow|hawkeye|captain america"
+        }
+    ],
+    "regular_price": "1.00",
+    "attributes": [
+        {
+            "name": "Color",
+            "option": "Black"
+        },
+        {
+            "name": "Size",
+            "option": "Small"
+        }
+    ]
+}

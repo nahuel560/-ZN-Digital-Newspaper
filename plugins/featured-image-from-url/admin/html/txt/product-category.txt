@@ -1,0 +1,13 @@
+{
+    "name": "Avengers",
+    "meta_data": [
+        {
+            "key": "fifu_image_url",
+            "value": "https://farm5.staticflickr.com/4333/35721637764_c6f1e93380_q.jpg"
+        },
+        {
+            "key": "fifu_image_alt",
+            "value": "black widow"
+        }
+    ]
+}

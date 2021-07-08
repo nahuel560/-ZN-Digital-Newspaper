@@ -1,0 +1,1 @@
+var SMWPBannerizeJavascript={vesion:"1.0.0",incrementClickCount:function(a){jQuery.post(wpBannerizeMainL10n.ajaxURL,{id:a})}};

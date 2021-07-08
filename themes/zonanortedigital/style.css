@@ -1,0 +1,22 @@
+/*
+  Theme Name:   zonanortedigital
+  Theme URI:    https://zonanortedigital.com
+  Description:  bienvenidos a zonanortedigital
+  Author:       zonanortedigital
+  Author URI:   https://zonanortedigital.com
+  Version:      4.7.1
+  License:      license purchased
+  License URI:  http://themeforest.net/licenses/regular_extended
+  Tags:         two-columns, buddypress, left-sidebar, right-sidebar, custom-menu, editor-style, featured-images, full-width-template, microformats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+  Text Domain:  zonanortedigital
+*/
+
+/*
+
+
+- The stylesheet is located in "assets/css/style.css". */
+
+
+.wp_bannerize_300x250 ul li {
+    list-style: none;
+}

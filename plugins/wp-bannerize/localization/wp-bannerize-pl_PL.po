@@ -1,0 +1,403 @@
+# Translation of the WordPress plugin WP-BANNERIZE 2.4.1 by Giovambattista Fazioli.
+# Copyright (C) 2010 Giovambattista Fazioli
+# This file is distributed under the same license as the WP-BANNERIZE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# Krzysztof Bociurko (ChanibaL) <wp@chanibal.pl>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-bannerize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-15 22:52+0100\n"
+"PO-Revision-Date: 2011-03-15 22:52+0100\n"
+"Last-Translator: Krzysztof Bociurko (ChanibaL) <wp@chanibal.pl>\n"
+"Language-Team: polish <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: wtf\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-bannerize_admin.php:21
+msgid "Publish"
+msgstr "Publikuj"
+
+#: ../wp-bannerize_admin.php:83
+msgid "WARINING!! Do you want delete this banner?"
+msgstr "UWAGA!! Na pewno usunąć ten banner?"
+
+#: ../wp-bannerize_admin.php:84
+msgid "Choose Time"
+msgstr "Określ czas"
+
+#: ../wp-bannerize_admin.php:85
+msgid "Time"
+msgstr "Czas"
+
+#: ../wp-bannerize_admin.php:86
+msgid "Hour"
+msgstr "Godzina"
+
+#: ../wp-bannerize_admin.php:87
+msgid "Minute"
+msgstr "Minuta"
+
+#: ../wp-bannerize_admin.php:88
+msgid "Seconds"
+msgstr "Sekunda"
+
+#: ../wp-bannerize_admin.php:89
+msgid "Now"
+msgstr "Teraz"
+
+#: ../wp-bannerize_admin.php:90
+msgid "Su,Mo,Tu,We,Th,Fr,Sa"
+msgstr "Nd,Pon,Wt,Śr,Czw,Pt,Sob"
+
+#: ../wp-bannerize_admin.php:91
+msgid "January,February,March,April,May,June,July,August,September,October,November,December"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../wp-bannerize_admin.php:92
+msgid "Close"
+msgstr "Zamknij"
+
+#: ../wp-bannerize_admin.php:93
+#: ../wp-bannerize_admin.php:1198
+msgid "mm/dd/yy"
+msgstr "mm/dd/rr"
+
+#: ../wp-bannerize_admin.php:119
+#: ../wp-bannerize_admin.php:640
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../wp-bannerize_admin.php:120
+#: ../wp-bannerize_admin.php:454
+msgid "Add New"
+msgstr "Nowy"
+
+#: ../wp-bannerize_admin.php:121
+#: ../wp-bannerize_admin.php:201
+#: ../wp-bannerize_admin.php:986
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ../wp-bannerize_admin.php:137
+msgid "Use"
+msgstr "Użyj"
+
+#: ../wp-bannerize_admin.php:182
+#, fuzzy
+msgid "Settings update succesfully!"
+msgstr "Banner zmieniony!"
+
+#: ../wp-bannerize_admin.php:191
+#: ../wp-bannerize_admin.php:288
+#: ../wp-bannerize_admin.php:402
+#: ../wp-bannerize_admin.php:448
+#: ../wp-bannerize_admin.php:996
+#: ../wp-bannerize_admin.php:1082
+#: ../wp-bannerize_admin.php:1116
+msgid "For more info and plugins visit"
+msgstr "Więcej informacji"
+
+#: ../wp-bannerize_admin.php:209
+msgid "Turn on Click Counter"
+msgstr "Zliczaj klinięcia"
+
+#: ../wp-bannerize_admin.php:216
+msgid "Turn on Impressions"
+msgstr "Zliczaj wyświetlenia"
+
+#: ../wp-bannerize_admin.php:223
+msgid "Support WP Bannerize"
+msgstr "Wspomóż plugin WP Bannerize"
+
+#: ../wp-bannerize_admin.php:226
+msgid "Append Powered by..."
+msgstr "Dodaj reklamę WP Bannerize (\"Powered by WP-Bannerize\")"
+
+#: ../wp-bannerize_admin.php:232
+msgid "Adobe Flash Window Mode"
+msgstr ""
+
+#: ../wp-bannerize_admin.php:241
+#, fuzzy
+msgid "Link description"
+msgstr "Opis"
+
+#: ../wp-bannerize_admin.php:250
+#: ../wp-bannerize_admin.php:742
+msgid "Update"
+msgstr "Zmień"
+
+#: ../wp-bannerize_admin.php:298
+msgid "Insert new Banner"
+msgstr "Dodaj nowy banner"
+
+#: ../wp-bannerize_admin.php:309
+#: ../wp-bannerize_admin.php:595
+#: ../wp-bannerize_admin.php:607
+msgid "Image"
+msgstr "Grafika"
+
+#: ../wp-bannerize_admin.php:316
+#: ../wp-bannerize_admin.php:717
+msgid "Start Date"
+msgstr "Data początkowa"
+
+#: ../wp-bannerize_admin.php:320
+#: ../wp-bannerize_admin.php:718
+msgid "End Date"
+msgstr "Data końcowa"
+
+#: ../wp-bannerize_admin.php:321
+msgid "Keep empty to set ever visible"
+msgstr "Pozostaw pole pustym aby banner był zawsze aktywny"
+
+#: ../wp-bannerize_admin.php:328
+#: ../wp-bannerize_admin.php:596
+#: ../wp-bannerize_admin.php:608
+#: ../wp-bannerize_admin.php:720
+msgid "Group"
+msgstr "Grupa"
+
+#: ../wp-bannerize_admin.php:331
+msgid "Insert a key max 128 chars"
+msgstr "Podaj klucz, maksymalnie 128 znaków"
+
+#: ../wp-bannerize_admin.php:336
+#: ../wp-bannerize_admin.php:597
+#: ../wp-bannerize_admin.php:609
+#: ../wp-bannerize_admin.php:721
+msgid "Description"
+msgstr "Opis"
+
+#: ../wp-bannerize_admin.php:339
+#: ../wp-bannerize_admin.php:722
+msgid "Use this description in output"
+msgstr "Użyj opisu"
+
+#: ../wp-bannerize_admin.php:343
+#: ../wp-bannerize_admin.php:724
+msgid "URL"
+msgstr "URL"
+
+#: ../wp-bannerize_admin.php:345
+msgid "Target:"
+msgstr "Cel linku:"
+
+#: ../wp-bannerize_admin.php:350
+#: ../wp-bannerize_admin.php:731
+msgid "Max Impressions"
+msgstr "Maksymalna liczba wyświetleń"
+
+#: ../wp-bannerize_admin.php:352
+msgid "When Impressions are great than this value then this banner is set to hidden"
+msgstr "Kiedy liczba wyświetleń przekroczy tą wartość banner zostanie ukryty"
+
+#: ../wp-bannerize_admin.php:357
+msgid "Add “nofollow“ attribute"
+msgstr "Dodaj atrybut \"nofollow\""
+
+#: ../wp-bannerize_admin.php:362
+msgid "Insert"
+msgstr "Dodaj"
+
+#: ../wp-bannerize_admin.php:407
+msgid "Warning!"
+msgstr "Uwaga!"
+
+#: ../wp-bannerize_admin.php:408
+msgid "This WP Bannerize release has a different Database Table struct. WP Bannerize has found an old Database Table. Do you want convert old struct for this release?"
+msgstr "Podczas instalacji, WP Bannerize znalazł starszą wersję bazy bannerów. Czy chcesz zmienić strukturę tabeli na aktualną?"
+
+#: ../wp-bannerize_admin.php:411
+msgid "Convert Database Table"
+msgstr "Zmień strukturę bazy"
+
+#: ../wp-bannerize_admin.php:415
+msgid "Do nothing"
+msgstr "Nic nie ruszaj"
+
+#: ../wp-bannerize_admin.php:419
+msgid "Delete Database and Images"
+msgstr "Usuń bazę danych i obrazy"
+
+#: ../wp-bannerize_admin.php:567
+#: ../wp-bannerize_admin.php:674
+msgid "Actions"
+msgstr "Akcje"
+
+#: ../wp-bannerize_admin.php:569
+#: ../wp-bannerize_admin.php:641
+#: ../wp-bannerize_admin.php:676
+msgid "Trash"
+msgstr "Kosz"
+
+#: ../wp-bannerize_admin.php:571
+#: ../wp-bannerize_admin.php:645
+#: ../wp-bannerize_admin.php:678
+msgid "Restore"
+msgstr "Przywróć"
+
+#: ../wp-bannerize_admin.php:572
+#: ../wp-bannerize_admin.php:644
+#: ../wp-bannerize_admin.php:679
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../wp-bannerize_admin.php:575
+#: ../wp-bannerize_admin.php:682
+msgid "Apply"
+msgstr "Włącz"
+
+#: ../wp-bannerize_admin.php:577
+msgid "Filter"
+msgstr "Filtruj"
+
+#: ../wp-bannerize_admin.php:582
+#: ../wp-bannerize_admin.php:686
+#, php-format
+msgid "Showing %s-%s of %s"
+msgstr "Pokazuję %s-%s z %s"
+
+#: ../wp-bannerize_admin.php:636
+msgid "URL:"
+msgstr "URL:"
+
+#: ../wp-bannerize_admin.php:642
+msgid "View"
+msgstr "Pokaż"
+
+#: ../wp-bannerize_admin.php:694
+msgid "No Banner found!"
+msgstr "Nie znaleziono bannera!"
+
+#: ../wp-bannerize_admin.php:725
+msgid "Target"
+msgstr "Cel linka"
+
+#: ../wp-bannerize_admin.php:727
+msgid "Click Counter:"
+msgstr "Licznik kliknięć"
+
+#: ../wp-bannerize_admin.php:729
+#, fuzzy
+msgid "Impressions"
+msgstr "Maksymalna liczba wyświetleń"
+
+#: ../wp-bannerize_admin.php:734
+msgid "Add nofollow attribute"
+msgstr "Dodaj atrybut \"nofollow\""
+
+#: ../wp-bannerize_admin.php:736
+msgid "Width:"
+msgstr "Szerokość:"
+
+#: ../wp-bannerize_admin.php:738
+msgid "Height:"
+msgstr "Wysokość:"
+
+#: ../wp-bannerize_admin.php:741
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../wp-bannerize_admin.php:756
+msgid "All groups"
+msgstr "Wszystkie grupy"
+
+#: ../wp-bannerize_admin.php:894
+msgid "Banner added succesfully!"
+msgstr "Banner dodany!"
+
+#: ../wp-bannerize_admin.php:897
+#, php-format
+msgid "Error while copying [%s] [%s bytes] - [%s]"
+msgstr "Błąd podczas kopiowania [%s] [%s bajtów] - [%s]"
+
+#: ../wp-bannerize_admin.php:901
+#, php-format
+msgid "No file to upload! - [%s]"
+msgstr "Brak pliku do wgrania! - [%s]"
+
+#: ../wp-bannerize_admin.php:918
+msgid "Banner sent to trash succesfully!"
+msgstr "Banner przeniesiony do kosza!"
+
+#: ../wp-bannerize_admin.php:933
+msgid "Banner restore from trash succesfully!"
+msgstr "Banner przywrócony z kosza!"
+
+#: ../wp-bannerize_admin.php:951
+msgid "Banner delete succesfully!"
+msgstr "Banner usunięty!"
+
+#: ../wp-bannerize_admin.php:967
+msgid "Banner update succesfully!"
+msgstr "Banner zmieniony!"
+
+#: ../wp-bannerize_admin.php:1087
+#: ../wp-bannerize_admin.php:1121
+msgid "Results"
+msgstr "Wyniki"
+
+#: ../wp-bannerize_admin.php:1088
+msgid "Ok, your old WP Bannerize Database Table has been convert succesfully! Please, press \"continue\" button to start with new WP Bannerize Release! Thank you for collaboration."
+msgstr "Baza danych została zmodyfikowana. Naciśnij przycisk \"kontynuuj\" aby zacząć korzystanie z nowego WP Bannerize! Dziękujemy za wsparcie."
+
+#: ../wp-bannerize_admin.php:1090
+#: ../wp-bannerize_admin.php:1124
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#: ../wp-bannerize_admin.php:1122
+msgid "Ok, ALL previous image file have been deleted succesfully. The old WP Bannerize Database table has been deleted."
+msgstr "Wszystkie stare grafiki, jak również stara baza danych zostały usunięte."
+
+#: ../wp-bannerize_widget.php:208
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: ../wp-bannerize_widget.php:210
+msgid "Group:"
+msgstr "Grupa:"
+
+#: ../wp-bannerize_widget.php:212
+msgid "Random:"
+msgstr "Losowe:"
+
+#: ../wp-bannerize_widget.php:215
+msgid "Show only for these Categories:"
+msgstr "Pokazuj tylko te kategorie:"
+
+#: ../wp-bannerize_widget.php:218
+msgid "Max:"
+msgstr "Maksymalnie:"
+
+#: ../wp-bannerize_widget.php:221
+msgid "container_before:"
+msgstr "HTML przed kontenerem:"
+
+#: ../wp-bannerize_widget.php:224
+msgid "before:"
+msgstr "HTML przed:"
+
+#: ../wp-bannerize_widget.php:230
+msgid "link_class:"
+msgstr "klasa linku"
+
+#: ../wp-bannerize_widget.php:234
+msgid "after:"
+msgstr "HTML po:"
+
+#: ../wp-bannerize_widget.php:238
+msgid "container_after:"
+msgstr "HTML po kontenerze:"
+

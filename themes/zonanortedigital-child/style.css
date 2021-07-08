@@ -1,0 +1,148 @@
+/*
+	Theme Name:   zonanortedigital Child
+	Theme URI:    https://zonanortedigital.com
+	Description:  zonanortedigital Theme
+	Author:       zonanortedigital
+	Author URI:   https://zonanortedigital.com
+	Template:     zonanortedigital
+	Version:      1.0.2
+	License:      license purchased
+	License URI:  http://themeforest.net/licenses/regular_extended
+	Tags:         Tags: two-columns, buddypress, left-sidebar, right-sidebar, custom-menu, editor-style, featured-images, full-width-template, microformats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+	Text Domain:  zonanortedigital-child
+*/
+
+
+/* write custom css after this line */
+
+
+.bannerZND ul li,#wp_bannerize-8 .wp_bannerize{
+    list-style: none;
+	text-align: center;
+}
+
+.carrusinpaddin .box-dark-skin>.container-wrapper {
+    padding: 0px 0 !important;
+}
+
+.carrusinpaddin .tie-slick-dots{
+	display:none !important;
+}
+
+.footerslider .mag-box{
+    padding-top: 50px;
+}
+
+.magazine2 .carrusinpaddin .mag-box{
+	margin-bottom: 0px;
+}
+/*
+.tie-video:after{
+	content: " ";
+    background-image: url(play.png);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: center center;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.48);
+    border: 0.050em solid #fff;
+    border-radius: 100%;
+    font-size: 40px;
+    z-index: 1;
+    -webkit-box-shadow: 0 0 0.15em rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 0.15em rgba(0, 0, 0, 0.4);
+}
+*/
+
+.homeLayoutclass .tie-col-md-4 {
+    height: 400px !important;
+}
+
+
+.bannerizeitem .bannerZND ul li{
+	width: 100% !important;
+}
+
+
+.bannerizeitem .bannerZND ul li img{
+	width: 100% !important;
+}
+
+.post-thumb .post-cat-wrap {
+    right: 10px;
+    top: 10px;
+}
+
+
+.mag-box .bannerizeitem .posts-items li {
+    float: none !important;
+    width: unset !important;
+    margin-top: unset !important;
+    padding: unset !important;;
+}
+
+
+.mag-box .homeLayoutclass .posts-items li.liconeinerclass{
+	width:100% !important;
+	float:none !important;
+	margin-bottom:20px !important;
+}
+
+@media (max-width: 991px){
+	.homeLayoutclass .tie-col-md-4 {
+		height: 400px !important;
+		width: 33%;
+	}
+}
+
+@media (max-width: 850px){
+	.homeLayoutclass .tie-col-md-4 {
+		height: 400px !important;
+		width: 48%;
+	}
+}
+
+@media (max-width: 700px){
+	.homeLayoutclass .tie-col-md-4 {
+		height: unset !important;
+		width: 400px;
+		float: none;
+		margin: 0 auto 20px auto;
+	}	
+}
+
+
+@media (max-width: 460px){
+	.homeLayoutclass .tie-col-md-4 {
+		height: unset !important;
+		width: 360px;
+		float: none;
+		margin: 0 auto 20px auto;
+	}	
+}
+
+@media (max-width: 380px){
+	.homeLayoutclass .tie-col-md-4 {
+		height: unset !important;
+		width: 300px;
+		float: none;
+		margin: 0 auto 20px auto;
+	}	
+}
+		
+
+@media (max-width: 320px){
+	.normal-side .tabs li {
+		display: initial;
+		width: initial;
+		float: initial;
+	}
+}
+
+

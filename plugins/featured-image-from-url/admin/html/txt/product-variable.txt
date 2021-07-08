@@ -1,0 +1,34 @@
+{
+    "name": "Avengers",
+    "type": "variable",
+    "meta_data": [
+        {
+            "key": "fifu_list_url",
+            "value": "https://farm5.staticflickr.com/4411/36159714680_cc552f124f_q.jpg|https://farm5.staticflickr.com/4415/36510266406_ee630f55e7_q.jpg|https://farm5.staticflickr.com/4415/35747392283_e685519b88_q.jpg"
+        },
+        {
+            "key": "fifu_list_alt",
+            "value": "avengers|iron man|hulk"
+        }
+    ],
+    "attributes": [
+        {
+            "name": "Color",
+            "visible": true,
+            "variation": true,
+            "options": [
+                "Black",
+                "Red"
+            ]
+        },
+        {
+            "name": "Size",
+            "visible": true,
+            "variation": true,
+            "options": [
+                "Big",
+                "Small"
+            ]
+        }
+    ]
+}

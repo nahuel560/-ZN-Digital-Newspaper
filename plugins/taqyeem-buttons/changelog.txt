@@ -1,0 +1,29 @@
+*** Taqyeem - Buttons Add-on Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 20-07-2016
+- Improvements and minor bug fixes.
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.3 - 25-08-2015
+- Improvements and minor bug fixes.
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.2 - 27-01-2014
+- Improvements and minor bug fixes.
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.1 - 16-12-2014
+- Added filters to avoid importing FontAwesome for theme development.
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release

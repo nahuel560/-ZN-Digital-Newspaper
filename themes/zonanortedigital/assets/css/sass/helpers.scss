@@ -1,0 +1,115 @@
+// MIXINS & GLOBAL VARIALS ALL OVER THE THEME & CSS3 MIXINS
+@import "utils/mixins";
+@import "utils/variables";
+
+
+//Remove/Close buttons -----------------------------------------
+// Element Story :)
+// as the Woocommerce uses .remove class for remove buttons, we will use the same class
+// all over the theme for remove/close buttons
+
+a.remove{
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	width: 20px;
+	height: 20px;
+	display: block;
+	line-height: 20px;
+	text-align: center;
+	font-size: 15px;
+
+	&:before{
+		content: "\e117";
+	  font-family: 'tiefonticon';
+		color: $danger_color;
+		transition: color 0.15s;
+	}
+
+	&:hover:before{
+		color: darken($danger_color, 15%);
+	}
+
+	&.big-btn{
+		width: 25px;
+		height: 25px;
+		line-height: 25px;
+		font-size: 22px;
+	}
+
+	&.light-btn:not(:hover){
+		&:before{
+			color: #ffffff;
+		}
+	}
+
+	// side aside
+	.side-aside &{
+		z-index: 1;
+		top: 15px;
+		@include center(x);
+
+		.admin-bar &{
+			top: 47px;
+		}
+
+		.admin-bar.is-mobile &{
+			top: 61px;
+		}
+	}
+
+	// popup module [login & search]
+	.tie-popup &{
+		transition: 0.3s;
+		transform: scale(0.2);
+		opacity: 0;
+		top: 40px;
+		right: 40px;
+		z-index: 1;
+
+		.tie-popup-is-opend &{
+			opacity: 1;
+			transform: scale(1);
+		}
+	}
+}
+
+// Sticky Sidebars
+.theiaStickySidebar:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+// PopUps ------------------------------------------------
+@import "components/_popup";
+
+// Font Awesome ------------------------------------------------
+// Font Awesome 4.7 by @davegandy - http://fontawesome.io - @fontawesome
+// License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+@import "vendors/fontawesome";
+
+
+// TieFontIcon -------------------------------------------------
+@import "vendors/tiefonticon";
+
+
+// Woocommerce - buddypress - bbpress notices ------------------
+@import "vendors/wp-bp-bb-notices";
+
+
+// TirpAdvisor -------------------------------------------------
+@import "vendors/tripadvisor";
+
+
+// malihu jquery custom scrollbar plugin -----------------------
+// Plugin URI: http://manos.malihu.gr/jquery-custom-content-scroller
+@import "vendors/mcustomscrollbar";
+
+
+// iLightbox // This code added directly to skins files of the IlightBox
+//@import "vendors/ilightbox";

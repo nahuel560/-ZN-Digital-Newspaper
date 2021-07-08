@@ -1,0 +1,219 @@
+{
+  "theme": 19659555,
+  "version": "4.7.1",
+  "message": [],
+  "status": 1,
+  "plugins": {
+    "taqyeem": {
+      "name": "Taqyeem",
+      "slug": "taqyeem",
+      "required": false,
+      "version": "2.3.1",
+      "force_deactivation": true
+    },
+    "taqyeem-buttons": {
+      "name": "Taqyeem - Buttons Addon",
+      "slug": "taqyeem-buttons",
+      "required": false,
+      "version": "1.1.0",
+      "force_deactivation": true
+    },
+    "taqyeem-predefined": {
+      "name": "Taqyeem - Predefined Criteria Addon",
+      "slug": "taqyeem-predefined",
+      "required": false,
+      "version": "1.0.1",
+      "force_deactivation": true
+    },
+    "jannah-extensions": {
+      "name": "Jannah Extensions",
+      "slug": "jannah-extensions",
+      "required": true,
+      "version": "1.0.11",
+      "force_deactivation": true
+    },
+    "arqam-lite": {
+      "name": "Arqam Lite",
+      "slug": "arqam-lite",
+      "required": false,
+      "version": "1.0.6",
+      "force_deactivation": true
+    },
+    "jannah-switcher": {
+      "name": "Jannah Switcher",
+      "slug": "jannah-switcher",
+      "required": false,
+      "version": "1.0.4",
+      "force_deactivation": true
+    },
+    "jannah-optimization": {
+      "name": "Jannah Speed Optimization",
+      "slug": "jannah-optimization",
+      "required": false,
+      "version": "0.2",
+      "force_deactivation": true
+    }
+  },
+  "demos": [
+    {
+      "name": "Main Demo",
+      "desc": "### Required Plugins\r\n- WooCommerce: For the Shop section\r\n- BuddyPress: for the Community section.\r\n\r\n### Logo Info\r\n- Logo Font: Poppins\r\n",
+      "url": "https://jannah.tielabs.com/demo",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demo.jpg"
+    },
+    {
+      "name": "Tech",
+      "desc": "The Tech Demo - is an ideal solution for your technology, review and News website.\r\n\r\n### Required Plugins\r\n- Taqyeem: For the post reviews.\r\n\r\n### Logo\r\n- Logo Font: Montserrat\r\n",
+      "url": "https://jannah.tielabs.com/tech",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/tech.jpg"
+    },
+    {
+      "name": "Sport",
+      "desc": "### Logo Info\r\n- Logo Font: Conthrax\r\n",
+      "url": "https://jannah.tielabs.com/sport",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/sport.jpg"
+    },
+    {
+      "name": "Auto",
+      "desc": "### Required Plugins\r\n- WooCommerce: For the Shop section\r\n\r\n### Logo Info\r\n- Logo Font: Montserrat\r\n",
+      "url": "https://jannah.tielabs.com/auto",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/auto.jpg"
+    },
+    {
+      "name": "Creative",
+      "desc": "### Logo Info\r\n- Logo Font: Myriad Pro\r\n",
+      "url": "https://jannah.tielabs.com/creative",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/creative.jpg"
+    },
+    {
+      "name": "Recipes & Tips",
+      "desc": "### Logo Info\r\n- Logo Font: Arima Madurai\r\n",
+      "url": "https://jannah.tielabs.com/foods",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/foods.jpg"
+    },
+    {
+      "name": "Times",
+      "desc": "### Logo Info\r\n- Logo Font: Old London\r\n",
+      "url": "https://jannah.tielabs.com/times",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/times.jpg"
+    },
+    {
+      "name": "Photography",
+      "desc": "### Logo Info\r\n- Logo Font: Poppins\r\n",
+      "url": "https://jannah.tielabs.com/photography",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/photography.jpg"
+    },
+    {
+      "name": "Hotels",
+      "desc": "### Required Plugins\r\n- Taqyeem: For the post reviews.\r\n\r\n### Logo Info\r\n- Logo Font: Cinzel Decorative\r\n",
+      "url": "https://jannah.tielabs.com/hotels",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/hotels.jpg"
+    },
+    {
+      "name": "Health",
+      "desc": "### Required Plugins\r\n- Timetable and Event Schedule: For the Event Schedule section\r\n\r\n### Logo Info\r\n- Logo Font: Lato\r\n",
+      "url": "https://jannah.tielabs.com/health",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/health.jpg"
+    },
+    {
+      "name": "House",
+      "desc": "### Required Plugins\r\n- WooCommerce: For the Shop section\r\n\r\n### Logo Info\r\n- Logo Font: Neris\r\n",
+      "url": "https://jannah.tielabs.com/house",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/house.jpg"
+    },
+    {
+      "name": "Videos",
+      "desc": "### Logo Info\r\n- Logo Font: Black Rose\r\n",
+      "url": "https://jannah.tielabs.com/videos",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos.jpg"
+    },
+    {
+      "name": "Videos 2",
+      "desc": "### Logo Info\r\n- Logo Font: Raleway\r\n",
+      "url": "https://jannah.tielabs.com/videos-2",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos-2.jpg"
+    },
+    {
+      "name": "Pets",
+      "desc": "### Assets info\r\nThe footer background is from freepik.com and not included in the imported data.\r\n\r\n### Logo Info\r\n- Logo Font: Raleway\r\n",
+      "url": "https://jannah.tielabs.com/pets",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/pets.jpg"
+    },
+    {
+      "name": "Travel",
+      "desc": "### Logo Info\r\n- Logo Font: BlacklightD\r\n",
+      "url": "https://jannah.tielabs.com/travel",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/travel.jpg"
+    },
+    {
+      "name": "Traveling",
+      "desc": "### Logo Info\r\n- Logo Font: Montserrat and Playfair Display\r\n",
+      "url": "https://jannah.tielabs.com/traveling",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/traveling.jpg"
+    },
+    {
+      "name": "Science",
+      "desc": "### Logo Info\r\n- Logo Font: Montserrat\r\n",
+      "url": "https://jannah.tielabs.com/science",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/science.jpg"
+    },
+    {
+      "name": "Personal Blog",
+      "desc": "### Logo Info\r\n- Logo Font: Another shabby\r\n",
+      "url": "https://jannah.tielabs.com/blog",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/blog.jpg"
+    },
+    {
+      "name": "Minimal Blog",
+      "desc": "### Required Plugins\r\n- ContactForm7: For the contact form.\r\n\r\n### Logo Info\r\n- Logo Font: Poppins\r\n",
+      "url": "https://jannah.tielabs.com/minimal-blog",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/minimal-blog.jpg"
+    },
+    {
+      "name": "City",
+      "desc": "### Logo Info\r\n- Logo Font: Silent Reaction\r\n",
+      "url": "https://jannah.tielabs.com/city",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/city.jpg"
+    },
+    {
+      "name": "School",
+      "desc": "### Assets info\r\nThe header and footer backgrounds are from freepik.com and not included in the imported data.\r\n\r\n### Logo Info\r\n- Logo Font: Neris\r\n",
+      "url": "https://jannah.tielabs.com/school",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/school.jpg"
+    },
+    {
+      "name": "Games",
+      "desc": "### Required Plugins\r\n- [WooCommerce](https://wordpress.org/plugins/woocommerce/)\r\n- bbPress: for the Forum section.\r\n\r\n### Logo Info\r\n- Logo Font: Neris\r\n",
+      "url": "https://jannah.tielabs.com/games",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/games.jpg"
+    },
+    {
+      "name": "Geo",
+      "desc": "### Logo Info\r\n- Logo Font: Intro\r\n",
+      "url": "https://jannah.tielabs.com/geo",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/geo.jpg"
+    },
+    {
+      "name": "Cryptocurrency",
+      "desc": "### Required Plugins\r\n- [WP Ultimate Crypto](https://wordpress.org/plugins/wp-ultimate-crypto/)\r\n- [Cryptocurrency All-in-One](https://wordpress.org/plugins/cryptocurrency-prices/)\r\n- [WooCommerce](https://wordpress.org/plugins/woocommerce/)\r\n\r\n### Logo Info\r\n- Logo Font: Lato",
+      "url": "https://jannah.tielabs.com/cryptocurrency",
+      "img": "https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/cryptocurrency.jpg"
+    },
+    {
+      "name":"Salad Dash",
+      "desc":"### Assets info\r\n- Header and Footer Background by [Freepik](https://www.freepik.com/free-vector/food-background-with-flat-design_2422082.htm)\r\n- Logo Icons: [Food Set 3](https://www.iconfinder.com/iconsets/food-set-3) by [BomSymbols](https://creativemarket.com/BomSymbols)\r\n\r\n### Logo Info\r\n- Logo Font: Oswald\r\n",
+      "url":"https://jannah.tielabs.com/salad-dash",
+      "img":"https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/salad-dash.jpg"
+    },
+    {
+      "name":"Fitness",
+      "desc":"### Required Plugins\r\n- [Timetable and Event Schedule](https://wordpress.org/plugins/mp-timetable/): For the Event Schedule section\r\n- [WooCommerce](https://wordpress.org/plugins/woocommerce/)\r\n\r\n### Logo Info\r\n- Logo Font: Intro\r\n",
+      "url":"https://jannah.tielabs.com/fitness",
+      "img":"https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/fitness.jpg"
+    }
+  ],
+  "buyer_id": "nulled",
+  "user_id": "nulled",
+  "customer_since": "2015-01-01T04:20:00+10:00",
+  "supported_until": "2025-01-01T04:20:00+10:00"
+}

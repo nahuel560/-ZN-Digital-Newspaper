@@ -1,0 +1,3 @@
+title;fifu_list_alt;fifu_list_url
+Marvel;Iron Man|Hulk|American Captain;https://farm5.staticflickr.com/4415/36510266406_ee630f55e7_q.jpg|https://farm5.staticflickr.com/4415/35747392283_e685519b88_q.jpg|https://farm5.staticflickr.com/4383/36510270056_0e52a799f4_q.jpg
+DC;Superman|Batman|Robin;https://farm5.staticflickr.com/4331/36556653975_79d2cb51ac_q.jpg|https://farm5.staticflickr.com/4376/36388230522_0fb18ca60a.jpg|https://farm5.staticflickr.com/4405/36556653895_f1c5350e36.jpg

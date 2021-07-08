@@ -1,0 +1,382 @@
+# Translation of the WordPress plugin WP-BANNERIZE 2.4.1 by Giovambattista Fazioli.
+# Copyright (C) 2010 Giovambattista Fazioli
+# This file is distributed under the same license as the WP-BANNERIZE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-bannerize v2.7.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-03 18:43+0100\n"
+"PO-Revision-Date: 2011-03-15 22:52+0100\n"
+"Last-Translator: Rene <info@wpwebshop.com>\n"
+"Language-Team: Translation by WordPressWebshop.com <info@wpwebshop.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-bannerize_admin.php:25
+msgid "Publish"
+msgstr "Publiceren"
+
+#: ../wp-bannerize_admin.php:101
+msgid "WARINING!! Do you want delete this banner?"
+msgstr "WAARSCHUWING! Wil je deze banner verwijderen?"
+
+#: ../wp-bannerize_admin.php:102
+msgid "Choose Time"
+msgstr "Kies tijd"
+
+#: ../wp-bannerize_admin.php:103
+msgid "Time"
+msgstr "Tijd"
+
+#: ../wp-bannerize_admin.php:104
+msgid "Hour"
+msgstr "Uur"
+
+#: ../wp-bannerize_admin.php:105
+msgid "Minute"
+msgstr "Minuut"
+
+#: ../wp-bannerize_admin.php:106
+msgid "Seconds"
+msgstr "Seconden"
+
+#: ../wp-bannerize_admin.php:107
+msgid "Now"
+msgstr "Nu"
+
+#: ../wp-bannerize_admin.php:108
+msgid "Su,Mo,Tu,We,Th,Fr,Sa"
+msgstr "Zo,Ma,Di,Wo,Do,Vr,Za"
+
+#: ../wp-bannerize_admin.php:109
+msgid "January,February,March,April,May,June,July,August,September,October,November,December"
+msgstr "Januari,Februari,Maart,April,Mei,Juni,Juli,Augustus,September,October,November,December"
+
+#: ../wp-bannerize_admin.php:110
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../wp-bannerize_admin.php:111
+#: ../wp-bannerize_admin.php:1135
+msgid "mm/dd/yy"
+msgstr "dd/mm/yy"
+
+#: ../wp-bannerize_admin.php:137
+#: ../wp-bannerize_admin.php:640
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../wp-bannerize_admin.php:138
+#: ../wp-bannerize_admin.php:454
+msgid "Add New"
+msgstr "Nieuwe Toevoegen"
+
+#: ../wp-bannerize_admin.php:139
+#: ../wp-bannerize_admin.php:219
+#: ../wp-bannerize_admin.php:955
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../wp-bannerize_admin.php:157
+msgid "Use"
+msgstr "Gebruik"
+
+#: ../wp-bannerize_admin.php:209
+#: ../wp-bannerize_admin.php:288
+#: ../wp-bannerize_admin.php:402
+#: ../wp-bannerize_admin.php:448
+#: ../wp-bannerize_admin.php:965
+#: ../wp-bannerize_admin.php:1033
+#: ../wp-bannerize_admin.php:1067
+msgid "For more info and plugins visit"
+msgstr "Voor meer informatie en plugins bezoek"
+
+#: ../wp-bannerize_admin.php:227
+msgid "Turn on Click Counter"
+msgstr "Activeren klik teller"
+
+#: ../wp-bannerize_admin.php:234
+msgid "Turn on Impressions"
+msgstr "Activeren Impressies"
+
+#: ../wp-bannerize_admin.php:241
+msgid "Support WP Bannerize"
+msgstr "Help WP Bannerize"
+
+#: ../wp-bannerize_admin.php:244
+msgid "Append Powered by..."
+msgstr "Voeg Powered by... toe"
+
+#: ../wp-bannerize_admin.php:250
+#: ../wp-bannerize_admin.php:738
+msgid "Update"
+msgstr "Update"
+
+#: ../wp-bannerize_admin.php:298
+msgid "Insert new Banner"
+msgstr "Invoegen nieuwe Banner"
+
+#: ../wp-bannerize_admin.php:309
+#: ../wp-bannerize_admin.php:595
+#: ../wp-bannerize_admin.php:607
+msgid "Image"
+msgstr "Afbeelding"
+
+#: ../wp-bannerize_admin.php:316
+#: ../wp-bannerize_admin.php:717
+msgid "Start Date"
+msgstr "Start Datum"
+
+#: ../wp-bannerize_admin.php:320
+#: ../wp-bannerize_admin.php:718
+msgid "End Date"
+msgstr "Eind Datum"
+
+#: ../wp-bannerize_admin.php:321
+msgid "Keep empty to set ever visible"
+msgstr "Behoud leeg om altijd weer te geven"
+
+#: ../wp-bannerize_admin.php:328
+#: ../wp-bannerize_admin.php:596
+#: ../wp-bannerize_admin.php:608
+#: ../wp-bannerize_admin.php:720
+msgid "Group"
+msgstr "Groep"
+
+#: ../wp-bannerize_admin.php:331
+msgid "Insert a key max 128 chars"
+msgstr "Voeg een sleutel in  max. 128 karakters"
+
+#: ../wp-bannerize_admin.php:336
+#: ../wp-bannerize_admin.php:597
+#: ../wp-bannerize_admin.php:609
+#: ../wp-bannerize_admin.php:721
+msgid "Description"
+msgstr "Omschrijving"
+
+#: ../wp-bannerize_admin.php:339
+#: ../wp-bannerize_admin.php:722
+msgid "Use this description in output"
+msgstr "Gebruik deze omschrijving in output"
+
+#: ../wp-bannerize_admin.php:343
+#: ../wp-bannerize_admin.php:723
+msgid "URL"
+msgstr "URL"
+
+#: ../wp-bannerize_admin.php:345
+msgid "Target:"
+msgstr "Doel:"
+
+#: ../wp-bannerize_admin.php:350
+#: ../wp-bannerize_admin.php:727
+msgid "Max Impressions"
+msgstr "Max Impressies"
+
+#: ../wp-bannerize_admin.php:352
+msgid "When Impressions are great than this value then this banner is set to hidden"
+msgstr "Wanneer Impressies groter zijn dan deze waarde is deze banner op verbergen ingesteld"
+
+#: ../wp-bannerize_admin.php:357
+msgid "Add “nofollow“ attribute"
+msgstr "Toevoegen “nofollow“ attribuut"
+
+#: ../wp-bannerize_admin.php:362
+msgid "Insert"
+msgstr "Invoegen"
+
+#: ../wp-bannerize_admin.php:407
+msgid "Warning!"
+msgstr "Waarschuwing!"
+
+#: ../wp-bannerize_admin.php:408
+msgid "This WP Bannerize release has a different Database Table struct. WP Bannerize has found an old Database Table. Do you want convert old struct for this release?"
+msgstr "Deze WP Bannerize heeft een andere Database Tabel structuur. WP Bannerize heeft een oude Database Tabel gevonden. Wil je de oude structuur converteren naar deze versie?"
+
+#: ../wp-bannerize_admin.php:411
+msgid "Convert Database Table"
+msgstr "Converteren Database Tabel"
+
+#: ../wp-bannerize_admin.php:415
+msgid "Do nothing"
+msgstr "Doe niets"
+
+#: ../wp-bannerize_admin.php:419
+msgid "Delete Database and Images"
+msgstr "Verwijder Database en Afbeeldingen"
+
+#: ../wp-bannerize_admin.php:567
+#: ../wp-bannerize_admin.php:674
+msgid "Actions"
+msgstr "Acties"
+
+#: ../wp-bannerize_admin.php:569
+#: ../wp-bannerize_admin.php:641
+#: ../wp-bannerize_admin.php:676
+msgid "Trash"
+msgstr "Prullenbak"
+
+#: ../wp-bannerize_admin.php:571
+#: ../wp-bannerize_admin.php:645
+#: ../wp-bannerize_admin.php:678
+msgid "Restore"
+msgstr "Herstellen"
+
+#: ../wp-bannerize_admin.php:572
+#: ../wp-bannerize_admin.php:644
+#: ../wp-bannerize_admin.php:679
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../wp-bannerize_admin.php:575
+#: ../wp-bannerize_admin.php:682
+msgid "Apply"
+msgstr "Toepassen"
+
+#: ../wp-bannerize_admin.php:577
+msgid "Filter"
+msgstr "Filteren"
+
+#: ../wp-bannerize_admin.php:582
+#: ../wp-bannerize_admin.php:686
+#, php-format
+msgid "Showing %s-%s of %s"
+msgstr "Weergeven %s-%s van %s"
+
+#: ../wp-bannerize_admin.php:636
+msgid "URL:"
+msgstr "URL:"
+
+#: ../wp-bannerize_admin.php:642
+msgid "View"
+msgstr "Bekijken"
+
+#: ../wp-bannerize_admin.php:694
+msgid "No Banner found!"
+msgstr "Geen Banner gevonden!"
+
+#: ../wp-bannerize_admin.php:724
+msgid "Target"
+msgstr "Doel"
+
+#: ../wp-bannerize_admin.php:725
+msgid "Click Counter:"
+msgstr "Klik Teller:"
+
+#: ../wp-bannerize_admin.php:730
+msgid "Add nofollow attribute"
+msgstr "Toevoegen nofollow attribuut"
+
+#: ../wp-bannerize_admin.php:732
+msgid "Width:"
+msgstr "Breedte:"
+
+#: ../wp-bannerize_admin.php:734
+msgid "Height:"
+msgstr "Hoogte:"
+
+#: ../wp-bannerize_admin.php:737
+msgid "Cancel"
+msgstr "Afbreken"
+
+#: ../wp-bannerize_admin.php:752
+msgid "All groups"
+msgstr "Alle groepen"
+
+#: ../wp-bannerize_admin.php:863
+msgid "Banner added succesfully!"
+msgstr "Banner succesvol toegevoegd!"
+
+#: ../wp-bannerize_admin.php:866
+#, php-format
+msgid "Error while copying [%s] [%s bytes] - [%s]"
+msgstr "Fout tijdens kopiëren [%s] [%s bytes] - [%s]"
+
+#: ../wp-bannerize_admin.php:870
+#, php-format
+msgid "No file to upload! - [%s]"
+msgstr "Geen bestand voor uploaden! - [%s]"
+
+#: ../wp-bannerize_admin.php:887
+msgid "Banner sent to trash succesfully!"
+msgstr "Banner succesvol naar prullenbak verzonden!"
+
+#: ../wp-bannerize_admin.php:902
+msgid "Banner restore from trash succesfully!"
+msgstr "Banner succesvol herstelt van prullenbak!"
+
+#: ../wp-bannerize_admin.php:920
+msgid "Banner delete succesfully!"
+msgstr "Banner succesvol verwijderd!"
+
+#: ../wp-bannerize_admin.php:936
+msgid "Banner update succesfully!"
+msgstr "Banner succesvol bijgewerkt!"
+
+#: ../wp-bannerize_admin.php:1038
+#: ../wp-bannerize_admin.php:1072
+msgid "Results"
+msgstr "Resultaten"
+
+#: ../wp-bannerize_admin.php:1039
+msgid "Ok, your old WP Bannerize Database Table has been convert succesfully! Please, press \"continue\" button to start with new WP Bannerize Release! Thank you for collaboration."
+msgstr "Ok, je oude WP Bannerize Database Tabel is succesvol geconverteerd! Klik op de \"doorgaan\" knop om te starten met de nieuwe WP Bannerize versie! Bedankt voor de medewerking."
+
+#: ../wp-bannerize_admin.php:1041
+#: ../wp-bannerize_admin.php:1075
+msgid "Continue"
+msgstr "Doorgaan"
+
+#: ../wp-bannerize_admin.php:1073
+msgid "Ok, ALL previous image file have been deleted succesfully. The old WP Bannerize Database table has been deleted."
+msgstr "Ok, ALLE vorige afbeeldingen zijn succesvol verwijderd. De oude WP Bannerize Database tabel is verwijderd."
+
+#: ../wp-bannerize_widget.php:197
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../wp-bannerize_widget.php:199
+msgid "Group:"
+msgstr "Groep:"
+
+#: ../wp-bannerize_widget.php:201
+msgid "Random:"
+msgstr "Willekeurig:"
+
+#: ../wp-bannerize_widget.php:204
+msgid "Show only for these Categories:"
+msgstr "Geef alleen voor deze Categorieën weer:"
+
+#: ../wp-bannerize_widget.php:207
+msgid "Max:"
+msgstr "Max:"
+
+#: ../wp-bannerize_widget.php:210
+msgid "container_before:"
+msgstr "container_before:"
+
+#: ../wp-bannerize_widget.php:213
+msgid "before:"
+msgstr "voor:"
+
+#: ../wp-bannerize_widget.php:219
+msgid "link_class:"
+msgstr "link_class:"
+
+#: ../wp-bannerize_widget.php:223
+msgid "after:"
+msgstr "na:"
+
+#: ../wp-bannerize_widget.php:227
+msgid "container_after:"
+msgstr "container_after:"
+
